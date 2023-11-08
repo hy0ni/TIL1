@@ -1,4 +1,3 @@
-# 프로그래머스(programmers) 코딩 테스트 풀이
 
 `commit 규칙`  
 [PGS] - 프로그래머스
